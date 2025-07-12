@@ -1,0 +1,475 @@
+{
+  "rocks": [
+    {
+      "id": 1,
+      "rock_name": "Launch Comprehensive Marketing Campaign",
+      "assigned_to_name": "Sarah K.",
+      "short_description": "Execute a multi-channel digital marketing strategy to increase brand awareness by 40% and generate 500 qualified leads",
+      "milestones": [
+        {
+          "week": "Week 1",
+          "milestones": [
+            {
+              "title": "Market Research & Analysis",
+              "subtasks": [
+                "Conduct competitor analysis across 5 major competitors",
+                "Analyze target audience demographics and behavior",
+                "Research market trends and opportunities",
+                "Define unique value proposition"
+              ]
+            },
+            {
+              "title": "Campaign Strategy Foundation",
+              "subtasks": [
+                "Set measurable campaign objectives and KPIs",
+                "Allocate budget across different channels",
+                "Create campaign timeline and milestones",
+                "Define success metrics and tracking methods"
+              ]
+            }
+          ]
+        },
+        {
+          "week": "Week 2",
+          "milestones": [
+            {
+              "title": "Creative Asset Development",
+              "subtasks": [
+                "Design visual brand guidelines for campaign",
+                "Create compelling copy for all marketing materials",
+                "Develop video content and animations",
+                "Design landing page mockups and wireframes"
+              ]
+            },
+            {
+              "title": "Content Strategy Planning",
+              "subtasks": [
+                "Plan content calendar for 8 weeks",
+                "Create blog post topics and outlines",
+                "Design social media content templates",
+                "Develop email marketing sequences"
+              ]
+            }
+          ]
+        },
+        {
+          "week": "Week 3",
+          "milestones": [
+            {
+              "title": "Platform Setup & Configuration",
+              "subtasks": [
+                "Set up Google Ads campaigns and targeting",
+                "Configure Facebook and Instagram advertising",
+                "Optimize LinkedIn company page and ad setup",
+                "Create and configure landing pages"
+              ]
+            },
+            {
+              "title": "Testing & Quality Assurance",
+              "subtasks": [
+                "A/B test ad creatives and headlines",
+                "Test landing page conversion optimization",
+                "Review all campaign materials for consistency",
+                "Conduct final quality checks across platforms"
+              ]
+            }
+          ]
+        },
+        {
+          "week": "Week 4",
+          "milestones": [
+            {
+              "title": "Campaign Launch",
+              "subtasks": [
+                "Launch Google Ads campaigns",
+                "Activate social media advertising",
+                "Send initial email marketing blast",
+                "Monitor real-time campaign performance"
+              ]
+            }
+          ]
+        },
+        {
+          "week": "Week 5",
+          "milestones": [
+            {
+              "title": "Performance Analysis & Optimization",
+              "subtasks": [
+                "Analyze week 1 performance metrics",
+                "Identify top-performing ad variations",
+                "Optimize underperforming campaigns",
+                "Adjust targeting and budget allocation"
+              ]
+            }
+          ]
+        },
+        {
+          "week": "Week 6",
+          "milestones": [
+            {
+              "title": "Mid-Campaign Refinement",
+              "subtasks": [
+                "Update ad creatives based on performance data",
+                "Refine audience targeting parameters",
+                "Test new landing page variations",
+                "Expand successful campaign elements"
+              ]
+            }
+          ]
+        },
+        {
+          "week": "Week 7",
+          "milestones": [
+            {
+              "title": "Content Refresh & Expansion",
+              "subtasks": [
+                "Create new ad variations and content",
+                "Launch retargeting campaigns",
+                "Develop customer testimonial content",
+                "Optimize email marketing sequences"
+              ]
+            }
+          ]
+        },
+        {
+          "week": "Week 8",
+          "milestones": [
+            {
+              "title": "Scale High-Performing Campaigns",
+              "subtasks": [
+                "Increase budget for top-converting ads",
+                "Expand to new audience segments",
+                "Launch additional platform campaigns",
+                "Implement advanced remarketing strategies"
+              ]
+            }
+          ]
+        },
+        {
+          "week": "Week 9",
+          "milestones": [
+            {
+              "title": "Lead Quality Assessment",
+              "subtasks": [
+                "Analyze lead scoring and qualification",
+                "Review sales team feedback on lead quality",
+                "Optimize lead capture forms and processes",
+                "Implement lead nurturing improvements"
+              ]
+            }
+          ]
+        },
+        {
+          "week": "Week 10",
+          "milestones": [
+            {
+              "title": "ROI Analysis & Future Planning",
+              "subtasks": [
+                "Calculate comprehensive campaign ROI",
+                "Analyze cost per acquisition across channels",
+                "Document lessons learned and best practices",
+                "Plan next quarter marketing strategy"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "rock_name": "Implement Customer Feedback System",
+      "assigned_to_name": "Mike T.",
+      "short_description": "Deploy end-to-end customer feedback collection and analysis platform to improve satisfaction scores by 25%",
+      "milestones": [
+        {
+          "week": "Week 1",
+          "milestones": [
+            {
+              "title": "Requirements Gathering & Stakeholder Alignment",
+              "subtasks": [
+                "Interview key stakeholders across departments",
+                "Document current feedback collection processes",
+                "Define technical and functional requirements",
+                "Create project charter and success criteria"
+              ]
+            }
+          ]
+        },
+        {
+          "week": "Week 2",
+          "milestones": [
+            {
+              "title": "System Architecture & Design",
+              "subtasks": [
+                "Design system architecture and data flow",
+                "Create UI/UX wireframes and mockups",
+                "Plan database schema and integrations",
+                "Define security and privacy requirements"
+              ]
+            }
+          ]
+        },
+        {
+          "week": "Week 3",
+          "milestones": [
+            {
+              "title": "Vendor Evaluation & Platform Selection",
+              "subtasks": [
+                "Research and evaluate feedback platforms",
+                "Compare pricing models and feature sets",
+                "Conduct technical assessments and demos",
+                "Create vendor comparison matrix"
+              ]
+            }
+          ]
+        },
+        {
+          "week": "Week 4",
+          "milestones": [
+            {
+              "title": "Platform Selection & Contract Negotiation",
+              "subtasks": [
+                "Make final platform recommendation",
+                "Negotiate contract terms and pricing",
+                "Finalize implementation timeline",
+                "Secure necessary approvals and sign-offs"
+              ]
+            }
+          ]
+        },
+        {
+          "week": "Week 5",
+          "milestones": [
+            {
+              "title": "Initial Setup & Configuration",
+              "subtasks": [
+                "Configure platform with company branding",
+                "Set up user accounts and permissions",
+                "Create basic survey templates",
+                "Configure notification settings"
+              ]
+            }
+          ]
+        },
+        {
+          "week": "Week 6",
+          "milestones": [
+            {
+              "title": "Survey Design & Customer Journey Mapping",
+              "subtasks": [
+                "Map complete customer journey touchpoints",
+                "Design surveys for different interaction points",
+                "Create question banks and survey templates",
+                "Set up automated survey triggers"
+              ]
+            }
+          ]
+        },
+        {
+          "week": "Week 7",
+          "milestones": [
+            {
+              "title": "System Integration Development",
+              "subtasks": [
+                "Integrate with CRM system",
+                "Connect email marketing platform",
+                "Set up API connections for data sync",
+                "Configure automated reporting"
+              ]
+            }
+          ]
+        },
+        {
+          "week": "Week 8",
+          "milestones": [
+            {
+              "title": "Testing & Quality Assurance",
+              "subtasks": [
+                "Conduct comprehensive system testing",
+                "Test all integrations and data flows",
+                "Perform user acceptance testing",
+                "Fix bugs and optimize performance"
+              ]
+            }
+          ]
+        },
+        {
+          "week": "Week 9",
+          "milestones": [
+            {
+              "title": "Team Training & Documentation",
+              "subtasks": [
+                "Create comprehensive user documentation",
+                "Conduct admin training sessions",
+                "Train customer service team on new processes",
+                "Set up ongoing support procedures"
+              ]
+            }
+          ]
+        },
+        {
+          "week": "Week 10",
+          "milestones": [
+            {
+              "title": "Full Deployment & Monitoring",
+              "subtasks": [
+                "Launch system company-wide",
+                "Monitor system performance and adoption",
+                "Collect initial feedback and insights",
+                "Plan future enhancements and improvements"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "rock_name": "Complete Q1 Budget Planning & Resource Allocation",
+      "assigned_to_name": "John D.",
+      "short_description": "Finalize comprehensive quarterly budget with detailed departmental breakdown and strategic resource allocation",
+      "milestones": [
+        {
+          "week": "Week 1",
+          "milestones": [
+            {
+              "title": "Historical Data Analysis & Collection",
+              "subtasks": [
+                "Analyze previous quarter spending patterns",
+                "Collect budget requests from all departments",
+                "Review revenue projections and forecasts",
+                "Identify cost-saving opportunities"
+              ]
+            }
+          ]
+        },
+        {
+          "week": "Week 2",
+          "milestones": [
+            {
+              "title": "Initial Budget Framework Development",
+              "subtasks": [
+                "Create departmental budget allocations",
+                "Plan capital expenditure requirements",
+                "Calculate operating expense baselines",
+                "Develop scenario planning models"
+              ]
+            }
+          ]
+        },
+        {
+          "week": "Week 3",
+          "milestones": [
+            {
+              "title": "Stakeholder Review & Feedback Integration",
+              "subtasks": [
+                "Conduct budget review meetings with department heads",
+                "Present initial budget to executive committee",
+                "Collect and document feedback and concerns",
+                "Identify areas requiring adjustment"
+              ]
+            }
+          ]
+        },
+        {
+          "week": "Week 4",
+          "milestones": [
+            {
+              "title": "Budget Refinement & Risk Assessment",
+              "subtasks": [
+                "Adjust allocations based on stakeholder feedback",
+                "Conduct comprehensive risk assessment",
+                "Develop contingency planning scenarios",
+                "Create budget variance analysis framework"
+              ]
+            }
+          ]
+        },
+        {
+          "week": "Week 5",
+          "milestones": [
+            {
+              "title": "Board Presentation Preparation",
+              "subtasks": [
+                "Prepare comprehensive presentation materials",
+                "Create executive summary and key highlights",
+                "Develop supporting financial projections",
+                "Prepare answers for anticipated questions"
+              ]
+            }
+          ]
+        },
+        {
+          "week": "Week 6",
+          "milestones": [
+            {
+              "title": "Board Approval Process",
+              "subtasks": [
+                "Present budget to board of directors",
+                "Address board questions and concerns",
+                "Incorporate final board feedback",
+                "Obtain formal budget approval"
+              ]
+            }
+          ]
+        },
+        {
+          "week": "Week 7",
+          "milestones": [
+            {
+              "title": "Budget Finalization & Documentation",
+              "subtasks": [
+                "Finalize all budget details and allocations",
+                "Complete comprehensive budget documentation",
+                "Update financial planning systems",
+                "Create budget communication materials"
+              ]
+            }
+          ]
+        },
+        {
+          "week": "Week 8",
+          "milestones": [
+            {
+              "title": "Department Communication & Training",
+              "subtasks": [
+                "Communicate budget decisions to all departments",
+                "Provide spending guidelines and procedures",
+                "Train managers on budget management tools",
+                "Set up approval workflows and processes"
+              ]
+            }
+          ]
+        },
+        {
+          "week": "Week 9",
+          "milestones": [
+            {
+              "title": "System Implementation & Monitoring Setup",
+              "subtasks": [
+                "Update all financial and ERP systems",
+                "Configure spending limits and controls",
+                "Set up automated approval workflows",
+                "Create real-time budget monitoring dashboards"
+              ]
+            }
+          ]
+        },
+        {
+          "week": "Week 10",
+          "milestones": [
+            {
+              "title": "Process Optimization & Future Planning",
+              "subtasks": [
+                "Collect feedback on budget process",
+                "Identify areas for process improvement",
+                "Document lessons learned and best practices",
+                "Begin preliminary planning for next quarter"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

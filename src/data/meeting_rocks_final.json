@@ -1,0 +1,814 @@
+{
+  "session_summary": "The meeting discussed major projects and initiatives including Luna Project, MarkTech Revamp, Design Backlog, Investor Deliverables, and Customer Advisory Board. Key outcomes included assigning tasks, setting deadlines, and defining objectives for each initiative.",
+  "rocks": [
+    {
+      "rock_title": "Luna Project",
+      "owner": "Alex Morgan (Team Lead / Product Manager)",
+      "smart_objective": "Improve user onboarding, resolve or-to-token refresh issue, and ensure smooth mobile experience by August 21st",
+      "milestones": [
+        {
+          "week": "Week1",
+          "tasks": [
+            {
+              "id": 1,
+              "title": "Define project scope and objectives",
+              "assignedTo": "Alex Morgan",
+              "subtasks": [
+                "Research project requirements",
+                "Define success metrics",
+                "Create project charter"
+              ],
+              "facilitatorComments": [
+                {
+                  "id": 1,
+                  "comment": "Please ensure all stakeholders are aligned on scope.",
+                  "timestamp": "2024-07-15T10:30:00Z",
+                  "author": "Priya Singh",
+                  "avatar": "PS",
+                  "role": "Facilitator"
+                },
+                {
+                  "id": 2,
+                  "comment": "Add more details to the project charter for clarity. Consider including deliverables, timelines, and responsible parties for each section.",
+                  "timestamp": "2024-07-15T12:00:00Z",
+                  "author": "Priya Singh",
+                  "avatar": "PS",
+                  "role": "Facilitator"
+                }
+              ],
+              "employeeComments": [
+                {
+                  "id": 1,
+                  "comment": "Working on stakeholder alignment this week. Scheduled meetings with all key members.",
+                  "timestamp": "2024-07-16T14:20:00Z",
+                  "author": "Alex Morgan",
+                  "avatar": "AM",
+                  "role": "Product Manager",
+                  "status": "In Progress"
+                },
+                {
+                  "id": 2,
+                  "comment": "Added initial draft of the project charter. Awaiting feedback from the team.",
+                  "timestamp": "2024-07-16T16:00:00Z",
+                  "author": "Alex Morgan",
+                  "avatar": "AM",
+                  "role": "Product Manager",
+                  "status": "Pending Review"
+                }
+              ]
+            },
+            {
+              "id": 2,
+              "title": "Identify key stakeholders",
+              "assignedTo": "Alex Morgan",
+              "subtasks": [
+                "Map stakeholder influence",
+                "Schedule stakeholder meetings"
+              ],
+              "facilitatorComments": [],
+              "employeeComments": []
+            },
+            {
+              "id": 3,
+              "title": "Create project timeline",
+              "assignedTo": "Alex Morgan",
+              "subtasks": [],
+              "facilitatorComments": [],
+              "employeeComments": []
+            }
+          ]
+        },
+        {
+          "week": "Week2",
+          "tasks": [
+            {
+              "id": 4,
+              "title": "Develop user onboarding module",
+              "assignedTo": "Alex Morgan",
+              "subtasks": [
+                "Design user flow",
+                "Create wireframes",
+                "Develop MVP prototype"
+              ],
+              "facilitatorComments": [
+                {
+                  "id": 2,
+                  "comment": "Focus on user experience and ease of use",
+                  "timestamp": "2024-07-22T09:15:00Z",
+                  "author": "Meeting Facilitator"
+                },
+                {
+                  "id": 3,
+                  "comment": "Wireframes should be reviewed by the design team.",
+                  "timestamp": "2024-07-22T11:00:00Z",
+                  "author": "Meeting Facilitator"
+                }
+              ],
+              "employeeComments": [
+                {
+                  "id": 2,
+                  "comment": "MVP prototype is 70% complete",
+                  "timestamp": "2024-07-23T16:45:00Z",
+                  "author": "Alex Morgan"
+                },
+                {
+                  "id": 3,
+                  "comment": "Wireframes sent to design team for review.",
+                  "timestamp": "2024-07-23T18:00:00Z",
+                  "author": "Alex Morgan"
+                }
+              ]
+            },
+            {
+              "id": 5,
+              "title": "Work on or-to-token refresh issue",
+              "assignedTo": "Taylor Singh",
+              "subtasks": [
+                "Investigate current implementation",
+                "Design new token refresh flow"
+              ],
+              "facilitatorComments": [],
+              "employeeComments": []
+            },
+            {
+              "id": 6,
+              "title": "Design mobile experience",
+              "assignedTo": "Rhea Verma",
+              "subtasks": [],
+              "facilitatorComments": [],
+              "employeeComments": []
+            }
+          ]
+        },
+        {
+          "week": "Week3",
+          "tasks": [
+            {
+              "id": 7,
+              "title": "Implement drip sequences for early access launch",
+              "assignedTo": "Alex Morgan",
+              "subtasks": [
+                "Set up email automation",
+                "Create sequence templates",
+                "Test drip campaigns"
+              ],
+              "facilitatorComments": [
+                {
+                  "id": 3,
+                  "comment": "Ensure personalization for better engagement",
+                  "timestamp": "2024-07-29T11:00:00Z",
+                  "author": "Meeting Facilitator"
+                }
+              ],
+              "employeeComments": [
+                {
+                  "id": 3,
+                  "comment": "Email templates ready, testing automation flows",
+                  "timestamp": "2024-07-30T13:30:00Z",
+                  "author": "Alex Morgan"
+                }
+              ]
+            },
+            {
+              "id": 8,
+              "title": "Test user onboarding module",
+              "assignedTo": "Taylor Singh",
+              "subtasks": [
+                "Unit testing",
+                "Integration testing",
+                "User acceptance testing"
+              ],
+              "facilitatorComments": [],
+              "employeeComments": [
+                {
+                  "id": 4,
+                  "comment": "UAT completed successfully, minor fixes needed",
+                  "timestamp": "2024-08-01T10:15:00Z",
+                  "author": "Taylor Singh"
+                }
+              ]
+            },
+            {
+              "id": 9,
+              "title": "Conduct stakeholder review",
+              "assignedTo": "Jordan Patel",
+              "subtasks": [],
+              "facilitatorComments": [],
+              "employeeComments": []
+            }
+          ]
+        },
+        {
+          "week": "Week4",
+          "tasks": [
+            "Finalize mobile experience",
+            "Resolve or-to-token refresh issue",
+            "Prepare for early access launch"
+          ]
+        },
+        {
+          "week": "Week5",
+          "tasks": [
+            "Launch early access",
+            "Monitor user feedback",
+            "Iterate on user onboarding"
+          ]
+        },
+        {
+          "week": "Week6",
+          "tasks": [
+            "Analyze user feedback",
+            "Refine user onboarding module",
+            "Plan for full launch"
+          ]
+        },
+        {
+          "week": "Week7",
+          "tasks": [
+            "Implement feedback from early access",
+            "Finalize Luna project"
+          ]
+        },
+        {
+          "week": "Week8",
+          "tasks": [
+            "Review project progress",
+            "Ensure readiness for full launch"
+          ]
+        },
+        {
+          "week": "Week9",
+          "tasks": [
+            "Prepare for full launch",
+            "Coordinate with stakeholders"
+          ]
+        },
+        {
+          "week": "Week10",
+          "tasks": [
+            "Full launch of Luna project",
+            "Monitor user feedback"
+          ]
+        },
+        {
+          "week": "Week11",
+          "tasks": [
+            "Analyze full launch feedback",
+            "Iterate on Luna project"
+          ]
+        },
+        {
+          "week": "Week12",
+          "tasks": [
+            "Finalize Luna project",
+            "Review project success"
+          ]
+        }
+      ],
+      "review": {
+        "status": "Approved",
+        "comments": "Ensure timely completion of Luna project"
+      }
+    },
+    {
+      "rock_title": "MarkTech Revamp",
+      "owner": "Taylor Singh (Engineering / Backend Developer)",
+      "smart_objective": "Successfully migrate from HubSpot to Customer.io by August 5th, with webhook integrations and budget background breakdown for Q4 planning",
+      "milestones": [
+        {
+          "week": "Week1",
+          "tasks": [
+            "Plan migration scope and timeline",
+            "Identify key stakeholders"
+          ]
+        },
+        {
+          "week": "Week2",
+          "tasks": [
+            "Develop migration plan",
+            "Work on webhook integrations"
+          ]
+        },
+        {
+          "week": "Week3",
+          "tasks": [
+            "Implement migration",
+            "Test webhook integrations"
+          ]
+        },
+        {
+          "week": "Week4",
+          "tasks": [
+            "Finalize migration",
+            "Prepare budget background breakdown"
+          ]
+        },
+        {
+          "week": "Week5",
+          "tasks": [
+            "Complete webhook integrations",
+            "Review migration success"
+          ]
+        },
+        {
+          "week": "Week6",
+          "tasks": [
+            "Finalize budget background breakdown",
+            "Plan for Q4"
+          ]
+        },
+        {
+          "week": "Week7",
+          "tasks": [
+            "Review project progress",
+            "Ensure readiness for Q4 planning"
+          ]
+        },
+        {
+          "week": "Week8",
+          "tasks": [
+            "Prepare for Q4 planning",
+            "Coordinate with stakeholders"
+          ]
+        },
+        {
+          "week": "Week9",
+          "tasks": [
+            "Finalize Q4 planning",
+            "Review MarkTech revamp success"
+          ]
+        },
+        {
+          "week": "Week10",
+          "tasks": [
+            "Monitor Q4 progress",
+            "Iterate on MarkTech revamp"
+          ]
+        },
+        {
+          "week": "Week11",
+          "tasks": [
+            "Analyze Q4 feedback",
+            "Refine MarkTech revamp"
+          ]
+        },
+        {
+          "week": "Week12",
+          "tasks": [
+            "Finalize MarkTech revamp",
+            "Review project success"
+          ]
+        }
+      ],
+      "review": {
+        "status": "Pending",
+        "comments": "Ensure successful migration and Q4 planning"
+      }
+    },
+    {
+      "rock_title": "Investor Deliverables",
+      "owner": "Alex Morgan (Team Lead / Product Manager)",
+      "smart_objective": "Prepare investor deck with retention stats, feature velocity, quarterly revenue, DevOps improvements, and customer testimonials by July 19th",
+      "milestones": [
+        {
+          "week": "Week1",
+          "tasks": [
+            "Define investor deck scope and objectives",
+            "Identify key stakeholders"
+          ]
+        },
+        {
+          "week": "Week2",
+          "tasks": [
+            "Develop investor deck",
+            "Gather retention stats"
+          ]
+        },
+        {
+          "week": "Week3",
+          "tasks": [
+            "Work on feature velocity",
+            "Quarterly revenue analysis"
+          ]
+        },
+        {
+          "week": "Week4",
+          "tasks": [
+            "DevOps improvements",
+            "Gather customer testimonials"
+          ]
+        },
+        {
+          "week": "Week5",
+          "tasks": [
+            "Finalize investor deck",
+            "Conduct dry run"
+          ]
+        },
+        {
+          "week": "Week6",
+          "tasks": [
+            "Finalize investor deck",
+            "Submit to investors"
+          ]
+        },
+        {
+          "week": "Week7",
+          "tasks": [
+            "Review investor deck feedback",
+            "Iterate on investor deck"
+          ]
+        },
+        {
+          "week": "Week8",
+          "tasks": [
+            "Finalize investor deck"
+          ]
+        },
+        {
+          "week": "Week9",
+          "tasks": []
+        },
+        {
+          "week": "Week10",
+          "tasks": []
+        },
+        {
+          "week": "Week11",
+          "tasks": []
+        },
+        {
+          "week": "Week12",
+          "tasks": []
+        }
+      ],
+      "review": {
+        "status": "Approved",
+        "comments": "Ensure timely submission of investor deck"
+      }
+    },
+    
+    {
+      "rock_title": "Design Backlog",
+      "owner": "Rhea Verma (UX Writer or Documentation Manager)",
+      "smart_objective": "Complete pending screens for billing settings, notification center, and new referral flow by August 28th",
+      "milestones": [
+        {
+          "week": "Week1",
+          "tasks": [
+            "Define design backlog scope and objectives",
+            "Identify key stakeholders"
+          ]
+        },
+        {
+          "week": "Week2",
+          "tasks": [
+            "Design billing settings screens",
+            "Work on notification center"
+          ]
+        },
+        {
+          "week": "Week3",
+          "tasks": [
+            "Design new referral flow",
+            "Test designs"
+          ]
+        },
+        {
+          "week": "Week4",
+          "tasks": [
+            "Finalize billing settings screens",
+            "Notification center design"
+          ]
+        },
+        {
+          "week": "Week5",
+          "tasks": [
+            "Finalize new referral flow",
+            "Review design backlog"
+          ]
+        },
+        {
+          "week": "Week6",
+          "tasks": [
+            "Iterate on design backlog",
+            "Coordinate with stakeholders"
+          ]
+        },
+        {
+          "week": "Week7",
+          "tasks": [
+            "Review design backlog progress",
+            "Ensure readiness for launch"
+          ]
+        },
+        {
+          "week": "Week8",
+          "tasks": [
+            "Prepare for launch",
+            "Coordinate with stakeholders"
+          ]
+        },
+        {
+          "week": "Week9",
+          "tasks": [
+            "Launch design backlog",
+            "Monitor feedback"
+          ]
+        },
+        {
+          "week": "Week10",
+          "tasks": [
+            "Analyze feedback",
+            "Iterate on design backlog"
+          ]
+        },
+        {
+          "week": "Week11",
+          "tasks": [
+            "Finalize design backlog",
+            "Review project success"
+          ]
+        },
+        {
+          "week": "Week12",
+          "tasks": [
+            "Review design backlog success"
+          ]
+        }
+      ],
+      "review": {
+        "status": "Pending",
+        "comments": "Ensure timely completion of design backlog"
+      }
+    }
+  ],
+  "compliance_log": {
+    "transcription_tool": "Python Speech Recognition",
+    "genai_model": "Groq meta-llama/llama-4-scout-17b-16e-instruct",
+    "facilitator_review_timestamp": "2025-07-04T18:48:03.512642",
+    "data_storage_platform": "Local Processing",
+    "processing_pipeline_version": "1.0"
+  },
+  "meetings": [
+    {
+      "quarter": "Q1 2024",
+      "session_summary": "Quarter focused on onboarding, marketing revamp, investor deliverables, and customer feedback.",
+      "rocks": [
+        {
+          "rock_title": "Luna Project",
+          "owner": "Alex Morgan (Team Lead / Product Manager)",
+          "smart_objective": "Improve user onboarding, resolve or-to-token refresh issue, and ensure smooth mobile experience by March 31st",
+          "milestones": [
+            { "week": "Week1", "tasks": ["Define project scope and objectives", "Identify key stakeholders", "Create project timeline"] },
+            { "week": "Week2", "tasks": ["Develop user onboarding module", "Work on or-to-token refresh issue", "Design mobile experience"] },
+            { "week": "Week3", "tasks": ["Test onboarding module", "Conduct stakeholder review"] },
+            { "week": "Week4", "tasks": ["Finalize mobile experience", "Prepare for early access launch"] },
+            { "week": "Week5", "tasks": ["Launch early access", "Monitor user feedback", "Iterate on user onboarding"] },
+            { "week": "Week6", "tasks": ["Analyze user feedback", "Refine onboarding module", "Plan for full launch"] },
+            { "week": "Week7", "tasks": ["Implement feedback from early access", "Finalize Luna project"] },
+            { "week": "Week8", "tasks": ["Review project progress", "Ensure readiness for full launch"] },
+            { "week": "Week9", "tasks": ["Prepare for full launch", "Coordinate with stakeholders"] },
+            { "week": "Week10", "tasks": ["Full launch of Luna project", "Monitor user feedback"] },
+            { "week": "Week11", "tasks": ["Analyze full launch feedback", "Iterate on Luna project"] }
+          ],
+          "review": { "status": "Approved", "comments": "Ensure timely completion of Luna project" }
+        },
+        {
+          "rock_title": "MarkTech Revamp",
+          "owner": "Taylor Singh (Engineering / Backend Developer)",
+          "smart_objective": "Migrate from HubSpot to Customer.io by March 15th, with webhook integrations and Q2 planning",
+          "milestones": [
+            { "week": "Week1", "tasks": ["Plan migration scope and timeline", "Identify key stakeholders"] },
+            { "week": "Week2", "tasks": ["Develop migration plan", "Work on webhook integrations"] },
+            { "week": "Week3", "tasks": ["Implement migration", "Test webhook integrations"] },
+            { "week": "Week4", "tasks": ["Finalize migration", "Prepare Q2 planning"] },
+            { "week": "Week5", "tasks": ["Complete webhook integrations", "Review migration success"] },
+            { "week": "Week6", "tasks": ["Finalize budget background breakdown", "Plan for Q2"] },
+            { "week": "Week7", "tasks": ["Review project progress", "Ensure readiness for Q2 planning"] },
+            { "week": "Week8", "tasks": ["Prepare for Q2 planning", "Coordinate with stakeholders"] },
+            { "week": "Week9", "tasks": ["Finalize Q2 planning", "Review MarkTech revamp success"] },
+            { "week": "Week10", "tasks": ["Monitor Q2 progress", "Iterate on MarkTech revamp"] },
+            { "week": "Week11", "tasks": ["Analyze Q2 feedback", "Refine MarkTech revamp"] }
+          ],
+          "review": { "status": "Pending", "comments": "Migration and Q2 planning on track" }
+        },
+        {
+          "rock_title": "Investor Deliverables",
+          "owner": "Alex Morgan (Team Lead / Product Manager)",
+          "smart_objective": "Prepare investor deck with retention stats, feature velocity, and customer testimonials by March 10th",
+          "milestones": [
+            { "week": "Week1", "tasks": ["Define investor deck scope", "Gather retention stats"] },
+            { "week": "Week2", "tasks": ["Develop investor deck", "Work on feature velocity"] },
+            { "week": "Week3", "tasks": ["Gather customer testimonials", "Finalize investor deck"] },
+            { "week": "Week4", "tasks": ["Conduct dry run", "Submit to investors"] },
+            { "week": "Week5", "tasks": ["Review investor feedback", "Iterate on deck"] },
+            { "week": "Week6", "tasks": ["Update deck with new metrics", "Prepare Q2 investor plan"] },
+            { "week": "Week7", "tasks": ["Draft Q2 investor communication", "Review with stakeholders"] },
+            { "week": "Week8", "tasks": ["Finalize Q2 communication", "Schedule investor calls"] },
+            { "week": "Week9", "tasks": ["Conduct investor calls", "Collect feedback"] },
+            { "week": "Week10", "tasks": ["Incorporate feedback", "Prepare final report"] },
+            { "week": "Week11", "tasks": ["Review Q1 investor outcomes", "Plan for next quarter"] }
+          ],
+          "review": { "status": "Approved", "comments": "Ensure timely submission of investor deck" }
+        }
+      ]
+    },
+    {
+      "quarter": "Q2 2024",
+      "session_summary": "Quarter focused on analytics, design backlog, onboarding improvements, and customer engagement.",
+      "rocks": [
+        {
+          "rock_title": "Orion Project",
+          "owner": "Priya Singh (Project Manager)",
+          "smart_objective": "Launch Orion's new analytics dashboard and improve reporting accuracy by June 15th",
+          "milestones": [
+            { "week": "Week1", "tasks": ["Define analytics requirements", "Draft dashboard wireframes"] },
+            { "week": "Week2", "tasks": ["Develop backend APIs", "Start frontend dashboard"] },
+            { "week": "Week3", "tasks": ["Integrate backend with frontend", "QA testing"] },
+            { "week": "Week4", "tasks": ["Incorporate feedback", "Enhance reporting accuracy"] },
+            { "week": "Week5", "tasks": ["Performance optimization", "User acceptance testing"] },
+            { "week": "Week6", "tasks": ["Bug fixes", "Prepare launch plan"] },
+            { "week": "Week7", "tasks": ["Soft launch dashboard", "Collect user feedback"] },
+            { "week": "Week8", "tasks": ["Iterate on features", "Finalize dashboard"] },
+            { "week": "Week9", "tasks": ["Documentation", "Team training"] },
+            { "week": "Week10", "tasks": ["Launch new analytics dashboard", "Monitor usage"] },
+            { "week": "Week11", "tasks": ["Support team", "Review analytics adoption"] }
+          ],
+          "review": { "status": "In Progress", "comments": "Dashboard launch on track" }
+        },
+        {
+          "rock_title": "Design Backlog",
+          "owner": "Rhea Verma (UX Writer or Documentation Manager)",
+          "smart_objective": "Complete pending screens for billing settings, notification center, and new referral flow by June 28th",
+          "milestones": [
+            { "week": "Week1", "tasks": ["Define design backlog scope", "Identify key stakeholders"] },
+            { "week": "Week2", "tasks": ["Design billing settings screens", "Work on notification center"] },
+            { "week": "Week3", "tasks": ["Design new referral flow", "Test designs"] },
+            { "week": "Week4", "tasks": ["Finalize billing settings screens", "Notification center design"] },
+            { "week": "Week5", "tasks": ["Finalize new referral flow", "Review design backlog"] },
+            { "week": "Week6", "tasks": ["Iterate on design backlog", "Coordinate with stakeholders"] },
+            { "week": "Week7", "tasks": ["Review design backlog progress", "Ensure readiness for launch"] },
+            { "week": "Week8", "tasks": ["Prepare for launch", "Coordinate with stakeholders"] },
+            { "week": "Week9", "tasks": ["Launch design backlog", "Monitor feedback"] },
+            { "week": "Week10", "tasks": ["Analyze feedback", "Iterate on design backlog"] },
+            { "week": "Week11", "tasks": ["Finalize design backlog", "Review project success"] }
+          ],
+          "review": { "status": "Pending", "comments": "Design backlog in progress" }
+        },
+        {
+          "rock_title": "Luna Project",
+          "owner": "Alex Morgan (Team Lead / Product Manager)",
+          "smart_objective": "Refine onboarding and launch mobile experience improvements by June 21st",
+          "milestones": [
+            { "week": "Week1", "tasks": ["Review Q1 feedback", "Plan mobile improvements"] },
+            { "week": "Week2", "tasks": ["Implement mobile improvements", "Test onboarding changes"] },
+            { "week": "Week3", "tasks": ["Stakeholder review", "Prepare for launch"] },
+            { "week": "Week4", "tasks": ["Launch improvements", "Monitor feedback"] },
+            { "week": "Week5", "tasks": ["Analyze feedback", "Refine onboarding module"] },
+            { "week": "Week6", "tasks": ["Plan for full launch", "Implement feedback"] },
+            { "week": "Week7", "tasks": ["Finalize mobile experience", "Coordinate with stakeholders"] },
+            { "week": "Week8", "tasks": ["Prepare for full launch", "Monitor user feedback"] },
+            { "week": "Week9", "tasks": ["Full launch of improvements", "Analyze user feedback"] },
+            { "week": "Week10", "tasks": ["Iterate on onboarding", "Review project progress"] },
+            { "week": "Week11", "tasks": ["Ensure readiness for next quarter", "Review Q2 outcomes"] }
+          ],
+          "review": { "status": "Approved", "comments": "Mobile improvements launched" }
+        },
+        {
+          "rock_title": "Customer Engagement Initiative",
+          "owner": "Jordan Patel (Marketing or Customer Insights Lead)",
+          "smart_objective": "Increase customer engagement by 20% through new campaigns by June 30th",
+          "milestones": [
+            { "week": "Week1", "tasks": ["Plan engagement campaigns", "Identify target segments"] },
+            { "week": "Week2", "tasks": ["Launch first campaign", "Monitor engagement"] },
+            { "week": "Week3", "tasks": ["Analyze results", "Iterate on campaigns"] },
+            { "week": "Week4", "tasks": ["Launch second campaign", "Prepare engagement report"] },
+            { "week": "Week5", "tasks": ["Review campaign performance", "Plan next campaign"] },
+            { "week": "Week6", "tasks": ["Launch third campaign", "Monitor engagement"] },
+            { "week": "Week7", "tasks": ["Analyze results", "Iterate on campaigns"] },
+            { "week": "Week8", "tasks": ["Prepare engagement summary", "Coordinate with stakeholders"] },
+            { "week": "Week9", "tasks": ["Plan next quarter initiatives", "Review engagement outcomes"] },
+            { "week": "Week10", "tasks": ["Draft Q3 engagement plan", "Review with team"] },
+            { "week": "Week11", "tasks": ["Finalize Q2 report", "Share with leadership"] }
+          ],
+          "review": { "status": "In Progress", "comments": "Campaigns underway" }
+        }
+      ]
+    },
+    {
+      "quarter": "Q3 2024",
+      "session_summary": "Quarter focused on API performance, design, marketing, and investor relations.",
+      "rocks": [
+        {
+          "rock_title": "Vega Project",
+          "owner": "John Lee (Engineering Lead)",
+          "smart_objective": "Reduce Vega's API latency by 40% and complete migration to new infra by September 30th",
+          "milestones": [
+            { "week": "Week1", "tasks": [
+                {
+                  "id": 1,
+                  "title": "Benchmark current API latency",
+                  "assignedTo": "John Lee",
+                  "subtasks": ["Collect baseline metrics", "Document current response times"],
+                  "facilitatorComments": [
+                    { "id": 1, "comment": "Please provide detailed latency metrics for all endpoints.", "timestamp": "2024-07-10T09:00:00Z", "author": "Admin" },
+                    { "id": 2, "comment": "Add a summary chart to the report.", "timestamp": "2024-07-10T10:00:00Z", "author": "Admin" }
+                  ],
+                  "employeeComments": [
+                    { "id": 1, "comment": "Initial benchmarks collected. Most endpoints under 300ms.", "timestamp": "2024-07-10T12:00:00Z", "author": "John Lee" },
+                    { "id": 2, "comment": "Will add summary chart by tomorrow.", "timestamp": "2024-07-10T13:00:00Z", "author": "John Lee" }
+                  ]
+                },
+                "Identify bottlenecks"
+              ] },
+            { "week": "Week2", "tasks": [
+                {
+                  "id": 2,
+                  "title": "Optimize database queries",
+                  "assignedTo": "John Lee",
+                  "subtasks": ["Profile slow queries", "Implement indexes", "Test improvements"],
+                  "facilitatorComments": [
+                    { "id": 3, "comment": "Focus on the user table queries first.", "timestamp": "2024-07-17T09:00:00Z", "author": "Admin" },
+                    { "id": 4, "comment": "Share before/after metrics for each optimization.", "timestamp": "2024-07-17T10:00:00Z", "author": "Admin" }
+                  ],
+                  "employeeComments": [
+                    { "id": 3, "comment": "Indexed user table, query time reduced by 60%.", "timestamp": "2024-07-17T12:00:00Z", "author": "John Lee" },
+                    { "id": 4, "comment": "Will share detailed metrics in the next update.", "timestamp": "2024-07-17T13:00:00Z", "author": "John Lee" }
+                  ]
+                },
+                "Refactor API endpoints"
+              ] },
+            { "week": "Week3", "tasks": ["Migrate staging environment", "Performance testing"] },
+            { "week": "Week4", "tasks": ["Address performance issues", "Prepare production migration"] },
+            { "week": "Week5", "tasks": ["Migrate production environment", "Monitor post-migration"] },
+            { "week": "Week6", "tasks": ["Hotfixes", "Analyze latency improvements"] },
+            { "week": "Week7", "tasks": ["Document changes", "Team training"] },
+            { "week": "Week8", "tasks": ["Finalize migration", "Retrospective meeting"] },
+            { "week": "Week9", "tasks": ["Plan next quarter objectives", "Team celebration"] },
+            { "week": "Week10", "tasks": ["Monitor system stability", "Gather user feedback"] },
+            { "week": "Week11", "tasks": ["Implement feedback", "Performance review"] }
+          ],
+          "review": { "status": "Completed", "comments": "API latency reduced, migration successful" }
+        },
+        {
+          "rock_title": "Design Backlog",
+          "owner": "Rhea Verma (UX Writer or Documentation Manager)",
+          "smart_objective": "Launch new notification center and referral flow by September 15th",
+          "milestones": [
+            { "week": "Week1", "tasks": ["Finalize notification center design", "Review referral flow"] },
+            { "week": "Week2", "tasks": ["Develop notification center", "Implement referral flow"] },
+            { "week": "Week3", "tasks": ["Test new features", "Gather user feedback"] },
+            { "week": "Week4", "tasks": ["Launch features", "Monitor feedback"] },
+            { "week": "Week5", "tasks": ["Analyze feedback", "Iterate on design backlog"] },
+            { "week": "Week6", "tasks": ["Prepare for launch", "Coordinate with stakeholders"] },
+            { "week": "Week7", "tasks": ["Launch design backlog", "Monitor feedback"] },
+            { "week": "Week8", "tasks": ["Analyze feedback", "Iterate on design backlog"] },
+            { "week": "Week9", "tasks": ["Finalize design backlog", "Review project success"] },
+            { "week": "Week10", "tasks": ["Review design backlog success", "Plan for next quarter"] },
+            { "week": "Week11", "tasks": ["Prepare Q4 design plan", "Share with team"] }
+          ],
+          "review": { "status": "Pending", "comments": "Feature launch in progress" }
+        },
+        {
+          "rock_title": "Marketing Expansion",
+          "owner": "Taylor Singh (Engineering / Backend Developer)",
+          "smart_objective": "Expand marketing reach by 30% through new channels by September 20th",
+          "milestones": [
+            { "week": "Week1", "tasks": ["Identify new marketing channels", "Develop expansion plan"] },
+            { "week": "Week2", "tasks": ["Launch campaigns on new channels", "Monitor reach"] },
+            { "week": "Week3", "tasks": ["Analyze campaign results", "Optimize strategies"] },
+            { "week": "Week4", "tasks": ["Expand to additional channels", "Prepare final report"] },
+            { "week": "Week5", "tasks": ["Review campaign performance", "Plan next campaign"] },
+            { "week": "Week6", "tasks": ["Launch next campaign", "Monitor reach"] },
+            { "week": "Week7", "tasks": ["Analyze results", "Iterate on strategies"] },
+            { "week": "Week8", "tasks": ["Prepare marketing summary", "Coordinate with stakeholders"] },
+            { "week": "Week9", "tasks": ["Plan next quarter initiatives", "Review marketing outcomes"] },
+            { "week": "Week10", "tasks": ["Draft Q4 marketing plan", "Review with team"] },
+            { "week": "Week11", "tasks": ["Finalize Q3 report", "Share with leadership"] }
+          ],
+          "review": { "status": "In Progress", "comments": "Expansion underway" }
+        },
+        {
+          "rock_title": "Investor Relations",
+          "owner": "Alex Morgan (Team Lead / Product Manager)",
+          "smart_objective": "Prepare Q3 investor update and present new growth metrics by September 25th",
+          "milestones": [
+            { "week": "Week1", "tasks": ["Draft investor update outline", "Gather growth metrics"] },
+            { "week": "Week2", "tasks": ["Develop investor update", "Review with stakeholders"] },
+            { "week": "Week3", "tasks": ["Finalize update", "Schedule presentation"] },
+            { "week": "Week4", "tasks": ["Present update", "Collect feedback"] },
+            { "week": "Week5", "tasks": ["Review feedback", "Iterate on update"] },
+            { "week": "Week6", "tasks": ["Update with new metrics", "Prepare Q4 investor plan"] },
+            { "week": "Week7", "tasks": ["Draft Q4 investor communication", "Review with stakeholders"] },
+            { "week": "Week8", "tasks": ["Finalize Q4 communication", "Schedule investor calls"] },
+            { "week": "Week9", "tasks": ["Conduct investor calls", "Collect feedback"] },
+            { "week": "Week10", "tasks": ["Incorporate feedback", "Prepare final report"] },
+            { "week": "Week11", "tasks": ["Review Q3 investor outcomes", "Plan for next quarter"] }
+          ],
+          "review": { "status": "Pending", "comments": "Investor update in progress" }
+        }
+      ]
+    }
+  ]
+}

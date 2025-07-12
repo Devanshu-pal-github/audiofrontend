@@ -1,0 +1,768 @@
+{
+  "meetings": [
+    {
+      "quarter": "Q1 2024",
+      "rock_title": "Luna Project",
+      "owner": "Alex Morgan (Team Lead / Product Manager)",
+      "smart_objective": "Improve user onboarding, resolve or-to-token refresh issue, and ensure smooth mobile experience by August 21st",
+      "milestones": [
+        { "week": "Week1", "tasks": [
+          {
+            "id": 1,
+            "title": "Define project scope and objectives",
+            "assignedTo": "Alex Morgan",
+            "subtasks": [
+              "Research project requirements",
+              "Define success metrics",
+              "Create project charter"
+            ],
+            "employeeComments": []
+          },
+          {
+            "id": 2,
+            "title": "Identify key stakeholders",
+            "assignedTo": "Alex Morgan",
+            "subtasks": [
+              "Map stakeholder hierarchy",
+              "Schedule stakeholder meetings",
+              "Create communication plan"
+            ],
+            "employeeComments": []
+          },
+          {
+            "id": 3,
+            "title": "Create project timeline",
+            "assignedTo": "Alex Morgan",
+            "subtasks": [
+              "Break down major milestones",
+              "Estimate task durations",
+              "Account for dependencies"
+            ],
+            "employeeComments": []
+          },
+          {
+            "id": 4,
+            "title": "Set up project repository",
+            "assignedTo": "Alex Morgan",
+            "subtasks": [
+              "Initialize Git repository",
+              "Set up folder structure",
+              "Configure CI/CD pipeline"
+            ],
+            "employeeComments": []
+          },
+          {
+            "id": 5,
+            "title": "Initial team meeting",
+            "assignedTo": "Alex Morgan",
+            "subtasks": [
+              "Schedule team kickoff",
+              "Prepare agenda",
+              "Gather team feedback"
+            ],
+            "employeeComments": []
+          }
+        ] },
+        { "week": "Week2", "tasks": [
+          {
+            "id": 6,
+            "title": "Develop user onboarding module",
+            "assignedTo": "Alex Morgan",
+            "subtasks": [
+              "Design onboarding flow",
+              "Implement user interface",
+              "Add progress tracking"
+            ],
+            "employeeComments": []
+          },
+          {
+            "id": 7,
+            "title": "Work on or-to-token refresh issue",
+            "assignedTo": "Alex Morgan",
+            "subtasks": [
+              "Investigate token expiration",
+              "Implement refresh mechanism",
+              "Test token handling"
+            ],
+            "employeeComments": []
+          },
+          {
+            "id": 8,
+            "title": "Design mobile experience",
+            "assignedTo": "Alex Morgan",
+            "subtasks": [
+              "Create mobile wireframes",
+              "Optimize for different screens",
+              "Test responsive design"
+            ],
+            "employeeComments": []
+          },
+          {
+            "id": 9,
+            "title": "Draft onboarding documentation",
+            "assignedTo": "Alex Morgan",
+            "subtasks": [
+              "Write user guides",
+              "Create video tutorials",
+              "Prepare FAQ section"
+            ],
+            "employeeComments": []
+          },
+          {
+            "id": 10,
+            "title": "Review technical requirements",
+            "assignedTo": "Alex Morgan",
+            "subtasks": [
+              "Validate system requirements",
+              "Check integration points",
+              "Review security standards"
+            ],
+            "employeeComments": []
+          }
+        ] },
+        { "week": "Week3", "tasks": [
+          {
+            "id": 11,
+            "title": "Implement drip sequences for early access launch",
+            "assignedTo": "Alex Morgan",
+            "subtasks": [
+              "Design email sequences",
+              "Set up automation triggers",
+              "Test delivery systems"
+            ],
+            "employeeComments": []
+          },
+          {
+            "id": 12,
+            "title": "Test user onboarding module",
+            "assignedTo": "Alex Morgan",
+            "subtasks": [
+              "Run unit tests",
+              "Perform integration testing",
+              "Conduct user acceptance testing"
+            ],
+            "employeeComments": []
+          },
+          {
+            "id": 13,
+            "title": "Conduct stakeholder review",
+            "assignedTo": "Alex Morgan",
+            "subtasks": [
+              "Schedule review meetings",
+              "Prepare presentation materials",
+              "Gather stakeholder feedback"
+            ],
+            "employeeComments": []
+          },
+          {
+            "id": 14,
+            "title": "Update onboarding flows",
+            "assignedTo": "Alex Morgan",
+            "subtasks": [
+              "Refine user journey",
+              "Update flow diagrams",
+              "Optimize conversion points"
+            ],
+            "employeeComments": []
+          },
+          {
+            "id": 15,
+            "title": "Bug fixes from testing",
+            "assignedTo": "Alex Morgan",
+            "subtasks": [
+              "Prioritize critical bugs",
+              "Implement fixes",
+              "Verify fix effectiveness"
+            ],
+            "employeeComments": []
+          }
+        ] },
+        { "week": "Week4", "tasks": [
+          {
+            "id": 16,
+            "title": "Finalize mobile experience",
+            "assignedTo": "Alex Morgan",
+            "subtasks": [
+              "Complete responsive design",
+              "Optimize mobile performance",
+              "Test on multiple devices"
+            ],
+            "employeeComments": []
+          },
+          {
+            "id": 17,
+            "title": "Resolve or-to-token refresh issue",
+            "assignedTo": "Alex Morgan",
+            "subtasks": [
+              "Deploy token fixes",
+              "Validate token handling",
+              "Monitor for edge cases"
+            ],
+            "employeeComments": []
+          },
+          {
+            "id": 18,
+            "title": "Prepare for early access launch",
+            "assignedTo": "Alex Morgan",
+            "subtasks": [
+              "Create launch checklist",
+              "Prepare rollback plan",
+              "Set up monitoring systems"
+            ],
+            "employeeComments": []
+          },
+          {
+            "id": 19,
+            "title": "QA for mobile",
+            "assignedTo": "Alex Morgan",
+            "subtasks": [
+              "Test mobile functionality",
+              "Verify cross-browser compatibility",
+              "Check performance metrics"
+            ],
+            "employeeComments": []
+          },
+          {
+            "id": 20,
+            "title": "Finalize launch checklist",
+            "assignedTo": "Alex Morgan",
+            "subtasks": [
+              "Review all requirements",
+              "Get stakeholder approval",
+              "Prepare go-live procedure"
+            ],
+            "employeeComments": []
+          }
+        ] },
+        { "week": "Week5", "tasks": [
+          {
+            "id": 21,
+            "title": "Launch early access",
+            "assignedTo": "Alex Morgan",
+            "subtasks": ["Execute launch plan", "Monitor system stability", "Coordinate with support team"],
+            "employeeComments": []
+          },
+          {
+            "id": 22,
+            "title": "Monitor user feedback",
+            "assignedTo": "Alex Morgan",
+            "subtasks": ["Set up feedback channels", "Track user metrics", "Analyze usage patterns"],
+            "employeeComments": []
+          },
+          {
+            "id": 23,
+            "title": "Iterate on user onboarding",
+            "assignedTo": "Alex Morgan",
+            "subtasks": ["Review onboarding analytics", "Identify improvement areas", "Implement quick wins"],
+            "employeeComments": []
+          },
+          {
+            "id": 24,
+            "title": "Address early access issues",
+            "assignedTo": "Alex Morgan",
+            "subtasks": ["Triage reported issues", "Implement critical fixes", "Communicate updates to users"],
+            "employeeComments": []
+          },
+          {
+            "id": 25,
+            "title": "Prepare feedback report",
+            "assignedTo": "Alex Morgan",
+            "subtasks": ["Compile user feedback", "Analyze metrics", "Create executive summary"],
+            "employeeComments": []
+          }
+        ] },
+        { "week": "Week6", "tasks": [
+          {
+            "id": 26,
+            "title": "Analyze user feedback",
+            "assignedTo": "Alex Morgan",
+            "subtasks": ["Categorize feedback themes", "Prioritize improvements", "Create action plan"],
+            "employeeComments": []
+          },
+          {
+            "id": 27,
+            "title": "Refine user onboarding module",
+            "assignedTo": "Alex Morgan",
+            "subtasks": ["Update onboarding flow", "Improve user guidance", "Enhance tutorial content"],
+            "employeeComments": []
+          },
+          {
+            "id": 28,
+            "title": "Plan for full launch",
+            "assignedTo": "Alex Morgan",
+            "subtasks": ["Create full launch strategy", "Set launch timeline", "Coordinate with teams"],
+            "employeeComments": []
+          },
+          {
+            "id": 29,
+            "title": "Update documentation",
+            "assignedTo": "Alex Morgan",
+            "subtasks": ["Revise user guides", "Update API documentation", "Create troubleshooting guides"],
+            "employeeComments": []
+          },
+          {
+            "id": 30,
+            "title": "Team review meeting",
+            "assignedTo": "Alex Morgan",
+            "subtasks": ["Schedule team meeting", "Prepare review agenda", "Document decisions"],
+            "employeeComments": []
+          }
+        ] },
+        { "week": "Week7", "tasks": [
+          {
+            "id": 31,
+            "title": "Implement feedback from early access",
+            "assignedTo": "Alex Morgan",
+            "subtasks": ["Prioritize feedback items", "Develop improvements", "Test new features"],
+            "employeeComments": []
+          },
+          {
+            "id": 32,
+            "title": "Finalize Luna project",
+            "assignedTo": "Alex Morgan",
+            "subtasks": ["Complete final features", "Conduct final testing", "Prepare for production"],
+            "employeeComments": []
+          },
+          {
+            "id": 33,
+            "title": "Performance optimization",
+            "assignedTo": "Alex Morgan",
+            "subtasks": ["Profile application performance", "Optimize bottlenecks", "Validate improvements"],
+            "employeeComments": []
+          },
+          {
+            "id": 34,
+            "title": "Security review",
+            "assignedTo": "Alex Morgan",
+            "subtasks": ["Conduct security audit", "Fix vulnerabilities", "Validate security measures"],
+            "employeeComments": []
+          },
+          {
+            "id": 35,
+            "title": "Stakeholder update",
+            "assignedTo": "Alex Morgan",
+            "subtasks": ["Prepare status report", "Schedule stakeholder meeting", "Present project progress"],
+            "employeeComments": []
+          }
+        ] },
+        { "week": "Week8", "tasks": [
+          {
+            "id": 36,
+            "title": "Review project progress",
+            "assignedTo": "Alex Morgan",
+            "subtasks": ["Assess milestone completion", "Review quality metrics", "Document lessons learned"],
+            "employeeComments": []
+          },
+          {
+            "id": 37,
+            "title": "Ensure readiness for full launch",
+            "assignedTo": "Alex Morgan",
+            "subtasks": ["Complete pre-launch checklist", "Verify system readiness", "Prepare launch team"],
+            "employeeComments": []
+          },
+          {
+            "id": 38,
+            "title": "Conduct user interviews",
+            "assignedTo": "Alex Morgan",
+            "subtasks": ["Schedule user interviews", "Prepare interview questions", "Analyze interview feedback"],
+            "employeeComments": []
+          },
+          {
+            "id": 39,
+            "title": "Finalize support materials",
+            "assignedTo": "Alex Morgan",
+            "subtasks": ["Create support documentation", "Train support team", "Set up help desk"],
+            "employeeComments": []
+          },
+          {
+            "id": 40,
+            "title": "Prepare marketing assets",
+            "assignedTo": "Alex Morgan",
+            "subtasks": ["Create promotional materials", "Coordinate with marketing team", "Plan launch campaign"],
+            "employeeComments": []
+          }
+        ] },
+        { "week": "Week9", "tasks": [
+          {
+            "id": 41,
+            "title": "Prepare for full launch",
+            "assignedTo": "Alex Morgan",
+            "subtasks": ["Finalize launch preparations", "Coordinate launch teams", "Confirm go-live date"],
+            "employeeComments": []
+          },
+          {
+            "id": 42,
+            "title": "Coordinate with stakeholders",
+            "assignedTo": "Alex Morgan",
+            "subtasks": ["Align stakeholder expectations", "Confirm launch support", "Schedule launch meetings"],
+            "employeeComments": []
+          },
+          {
+            "id": 43,
+            "title": "Final QA",
+            "assignedTo": "Alex Morgan",
+            "subtasks": ["Execute final test plan", "Verify all systems", "Sign off on quality"],
+            "employeeComments": []
+          },
+          {
+            "id": 44,
+            "title": "Schedule launch event",
+            "assignedTo": "Alex Morgan",
+            "subtasks": ["Plan launch ceremony", "Invite stakeholders", "Prepare event materials"],
+            "employeeComments": []
+          },
+          {
+            "id": 45,
+            "title": "Update release notes",
+            "assignedTo": "Alex Morgan",
+            "subtasks": ["Document new features", "List bug fixes", "Prepare user communication"],
+            "employeeComments": []
+          }
+        ] },
+        { "week": "Week10", "tasks": [
+          {
+            "id": 46,
+            "title": "Full launch of Luna project",
+            "assignedTo": "Alex Morgan",
+            "subtasks": ["Execute launch plan", "Monitor launch metrics", "Coordinate launch activities"],
+            "employeeComments": []
+          },
+          {
+            "id": 47,
+            "title": "Monitor user feedback",
+            "assignedTo": "Alex Morgan",
+            "subtasks": ["Track user reactions", "Monitor support channels", "Analyze user behavior"],
+            "employeeComments": []
+          },
+          {
+            "id": 48,
+            "title": "Hotfixes for launch issues",
+            "assignedTo": "Alex Morgan",
+            "subtasks": ["Identify critical issues", "Deploy emergency fixes", "Validate fix effectiveness"],
+            "employeeComments": []
+          },
+          {
+            "id": 49,
+            "title": "Launch announcement",
+            "assignedTo": "Alex Morgan",
+            "subtasks": ["Publish launch announcement", "Update website", "Communicate to users"],
+            "employeeComments": []
+          },
+          {
+            "id": 50,
+            "title": "Monitor analytics",
+            "assignedTo": "Alex Morgan",
+            "subtasks": ["Track key metrics", "Analyze user adoption", "Report on launch success"],
+            "employeeComments": []
+          }
+        ] },
+        { "week": "Week11", "tasks": [
+          {
+            "id": 51,
+            "title": "Analyze full launch feedback",
+            "assignedTo": "Alex Morgan",
+            "subtasks": ["Collect launch feedback", "Identify improvement areas", "Plan follow-up actions"],
+            "employeeComments": []
+          },
+          {
+            "id": 52,
+            "title": "Iterate on Luna project",
+            "assignedTo": "Alex Morgan",
+            "subtasks": ["Implement quick improvements", "Plan future iterations", "Update roadmap"],
+            "employeeComments": []
+          },
+          {
+            "id": 53,
+            "title": "Post-launch support",
+            "assignedTo": "Alex Morgan",
+            "subtasks": ["Provide user support", "Address ongoing issues", "Monitor system health"],
+            "employeeComments": []
+          },
+          {
+            "id": 54,
+            "title": "Retrospective meeting",
+            "assignedTo": "Alex Morgan",
+            "subtasks": ["Schedule team retrospective", "Review project outcomes", "Identify lessons learned"],
+            "employeeComments": []
+          },
+          {
+            "id": 55,
+            "title": "Document lessons learned",
+            "assignedTo": "Alex Morgan",
+            "subtasks": ["Compile project insights", "Create best practices guide", "Share with organization"],
+            "employeeComments": []
+          }
+        ] },
+        { "week": "Week12", "tasks": [
+          {
+            "id": 56,
+            "title": "Finalize Luna project",
+            "assignedTo": "Alex Morgan",
+            "subtasks": ["Complete final deliverables", "Close project activities", "Hand over to operations"],
+            "employeeComments": []
+          },
+          {
+            "id": 57,
+            "title": "Review project success",
+            "assignedTo": "Alex Morgan",
+            "subtasks": ["Measure project outcomes", "Assess goal achievement", "Calculate ROI"],
+            "employeeComments": []
+          },
+          {
+            "id": 58,
+            "title": "Archive project materials",
+            "assignedTo": "Alex Morgan",
+            "subtasks": ["Organize project documents", "Archive code repositories", "Store project artifacts"],
+            "employeeComments": []
+          },
+          {
+            "id": 59,
+            "title": "Celebrate team achievements",
+            "assignedTo": "Alex Morgan",
+            "subtasks": ["Plan team celebration", "Recognize contributions", "Share success stories"],
+            "employeeComments": []
+          },
+          {
+            "id": 60,
+            "title": "Prepare final report",
+            "assignedTo": "Alex Morgan",
+            "subtasks": ["Compile project summary", "Document achievements", "Present to leadership"],
+            "employeeComments": []
+          }
+        ] }
+      ],
+      "review": {
+        "status": "Approved",
+        "comments": "Ensure timely completion of Luna project"
+      }
+    },
+    {
+      "quarter": "Q2 2024",
+      "rock_title": "Orion Expansion",
+      "owner": "Jamie Lee (Engineering Manager)",
+      "smart_objective": "Expand Orion platform to new markets and improve scalability by May 15th",
+      "milestones": [
+        { "week": "Week1", "tasks": [
+          {
+            "id": 61,
+            "title": "Market research for expansion",
+            "assignedTo": "Jamie Lee",
+            "subtasks": ["Analyze target markets", "Study competitor landscape", "Identify market opportunities"],
+            "employeeComments": []
+          },
+          {
+            "id": 62,
+            "title": "Identify technical bottlenecks",
+            "assignedTo": "Jamie Lee",
+            "subtasks": ["Assess current infrastructure", "Identify scalability limits", "Plan performance improvements"],
+            "employeeComments": []
+          },
+          {
+            "id": 63,
+            "title": "Competitor analysis",
+            "assignedTo": "Jamie Lee",
+            "subtasks": ["Research competitor features", "Analyze pricing strategies", "Identify competitive advantages"],
+            "employeeComments": []
+          },
+          {
+            "id": 64,
+            "title": "Initial team sync",
+            "assignedTo": "Jamie Lee",
+            "subtasks": ["Schedule team meetings", "Align on project goals", "Assign initial responsibilities"],
+            "employeeComments": []
+          },
+          {
+            "id": 65,
+            "title": "Draft expansion timeline",
+            "assignedTo": "Jamie Lee",
+            "subtasks": ["Create project milestones", "Estimate development effort", "Plan resource allocation"],
+            "employeeComments": []
+          }
+        ] },
+        { "week": "Week2", "tasks": [
+          {
+            "id": 66,
+            "title": "Develop expansion plan",
+            "assignedTo": "Jamie Lee",
+            "subtasks": ["Create detailed expansion strategy", "Define success metrics", "Plan rollout phases"],
+            "employeeComments": []
+          },
+          {
+            "id": 67,
+            "title": "Upgrade infrastructure",
+            "assignedTo": "Jamie Lee",
+            "subtasks": ["Scale server capacity", "Improve database performance", "Enhance security measures"],
+            "employeeComments": []
+          },
+          {
+            "id": 68,
+            "title": "Review compliance requirements",
+            "assignedTo": "Jamie Lee",
+            "subtasks": ["Research local regulations", "Update privacy policies", "Ensure data compliance"],
+            "employeeComments": []
+          },
+          {
+            "id": 69,
+            "title": "Stakeholder alignment",
+            "assignedTo": "Jamie Lee",
+            "subtasks": ["Present expansion plan", "Get stakeholder buy-in", "Address stakeholder concerns"],
+            "employeeComments": []
+          },
+          {
+            "id": 70,
+            "title": "Set up monitoring tools",
+            "assignedTo": "Jamie Lee",
+            "subtasks": ["Configure system monitoring", "Set up alerting", "Create performance dashboards"],
+            "employeeComments": []
+          }
+        ] },
+        { "week": "Week3", "tasks": [
+          {
+            "id": 71,
+            "title": "Implement new features for target markets",
+            "assignedTo": "Jamie Lee",
+            "subtasks": ["Develop market-specific features", "Implement localization", "Test feature compatibility"],
+            "employeeComments": []
+          },
+          {
+            "id": 72,
+            "title": "Test scalability improvements",
+            "assignedTo": "Jamie Lee",
+            "subtasks": ["Conduct load testing", "Validate performance gains", "Optimize bottlenecks"],
+            "employeeComments": []
+          },
+          {
+            "id": 73,
+            "title": "Performance benchmarking",
+            "assignedTo": "Jamie Lee",
+            "subtasks": ["Establish baseline metrics", "Measure improvement gains", "Document performance results"],
+            "employeeComments": []
+          },
+          {
+            "id": 74,
+            "title": "Bug triage",
+            "assignedTo": "Jamie Lee",
+            "subtasks": ["Identify critical bugs", "Prioritize bug fixes", "Assign bug resolution tasks"],
+            "employeeComments": []
+          },
+          {
+            "id": 75,
+            "title": "Update technical docs",
+            "assignedTo": "Jamie Lee",
+            "subtasks": ["Document new features", "Update API documentation", "Create deployment guides"],
+            "employeeComments": []
+          }
+        ] },
+        { "week": "Week4", "tasks": [
+          {
+            "id": 76,
+            "title": "Stakeholder review",
+            "assignedTo": "Jamie Lee",
+            "subtasks": ["Present progress update", "Review feature completeness", "Address stakeholder feedback"],
+            "employeeComments": []
+          },
+          {
+            "id": 77,
+            "title": "Finalize go-to-market strategy",
+            "assignedTo": "Jamie Lee",
+            "subtasks": ["Complete market entry plan", "Define launch strategy", "Coordinate with marketing"],
+            "employeeComments": []
+          },
+          {
+            "id": 78,
+            "title": "QA for new features",
+            "assignedTo": "Jamie Lee",
+            "subtasks": ["Execute test plans", "Verify feature functionality", "Validate user experience"],
+            "employeeComments": []
+          },
+          {
+            "id": 79,
+            "title": "Prepare marketing plan",
+            "assignedTo": "Jamie Lee",
+            "subtasks": ["Develop marketing materials", "Plan promotional campaign", "Schedule marketing activities"],
+            "employeeComments": []
+          },
+          {
+            "id": 80,
+            "title": "Legal review",
+            "assignedTo": "Jamie Lee",
+            "subtasks": ["Review legal compliance", "Update terms of service", "Ensure regulatory compliance"],
+            "employeeComments": []
+          }
+        ] },
+        { "week": "Week5", "tasks": [
+          {
+            "id": 81,
+            "title": "Soft launch in new markets",
+            "assignedTo": "Jamie Lee",
+            "subtasks": ["Execute soft launch plan", "Monitor initial user adoption", "Collect early feedback"],
+            "employeeComments": []
+          },
+          {
+            "id": 82,
+            "title": "Monitor system performance",
+            "assignedTo": "Jamie Lee",
+            "subtasks": ["Track system metrics", "Monitor response times", "Ensure system stability"],
+            "employeeComments": []
+          },
+          {
+            "id": 83,
+            "title": "Collect user feedback",
+            "assignedTo": "Jamie Lee",
+            "subtasks": ["Set up feedback channels", "Analyze user responses", "Categorize feedback themes"],
+            "employeeComments": []
+          },
+          {
+            "id": 84,
+            "title": "Address launch issues",
+            "assignedTo": "Jamie Lee",
+            "subtasks": ["Triage reported issues", "Implement critical fixes", "Communicate updates"],
+            "employeeComments": []
+          },
+          {
+            "id": 85,
+            "title": "Prepare interim report",
+            "assignedTo": "Jamie Lee",
+            "subtasks": ["Compile launch metrics", "Document early findings", "Create status report"],
+            "employeeComments": []
+          }
+        ] },
+        { "week": "Week6", "tasks": ["Collect user feedback", "Iterate on features", "Performance tuning", "Update user guides", "Team review meeting"] },
+        { "week": "Week7", "tasks": ["Full launch in new markets", "Performance monitoring", "Hotfixes for launch", "Stakeholder update", "Monitor analytics"] },
+        { "week": "Week8", "tasks": ["Analyze launch data", "Optimize platform", "Conduct user interviews", "Finalize support materials", "Prepare case studies"] },
+        { "week": "Week9", "tasks": ["Prepare case studies", "Internal review", "Plan next phase", "Update documentation", "Schedule leadership review"] },
+        { "week": "Week10", "tasks": ["Present results to leadership", "Plan next phase", "Retrospective meeting", "Document lessons learned", "Prepare final report"] },
+        { "week": "Week11", "tasks": ["Begin next phase development", "Team onboarding", "Set up new sprints", "Define KPIs", "Kickoff meeting"] },
+        { "week": "Week12", "tasks": ["Retrospective and documentation", "Archive project materials", "Celebrate team achievements", "Prepare next quarter plan", "Share learnings"] }
+      ],
+      "review": {
+        "status": "Pending",
+        "comments": "Awaiting full launch results"
+      }
+    },
+    {
+      "quarter": "Q3 2024",
+      "rock_title": "Vega Automation",
+      "owner": "Morgan Smith (Automation Lead)",
+      "smart_objective": "Automate key workflows and reduce manual effort by 40% by September 30th",
+      "milestones": [
+        { "week": "Week1", "tasks": ["Identify manual workflows", "Prioritize automation candidates", "Initial automation workshop", "Draft automation roadmap", "Team kickoff"] },
+        { "week": "Week2", "tasks": ["Design automation architecture", "Select tools", "Review security requirements", "Set up automation environment", "Stakeholder alignment"] },
+        { "week": "Week3", "tasks": ["Develop automation scripts", "Test initial automations", "Bug fixes", "Performance benchmarking", "Update technical docs"] },
+        { "week": "Week4", "tasks": ["Deploy first automation batch", "Monitor results", "Collect user feedback", "QA for automations", "Prepare interim report"] },
+        { "week": "Week5", "tasks": ["Iterate on scripts", "Expand automation coverage", "Performance tuning", "Stakeholder update", "Monitor analytics"] },
+        { "week": "Week6", "tasks": ["Stakeholder review", "Refine automation", "Update user guides", "Team review meeting", "Plan next phase"] },
+        { "week": "Week7", "tasks": ["Train staff on new workflows", "Monitor adoption", "Collect feedback", "Address training issues", "Prepare support materials"] },
+        { "week": "Week8", "tasks": ["Monitor adoption", "Collect feedback", "Performance optimization", "Finalize support materials", "Prepare case studies"] },
+        { "week": "Week9", "tasks": ["Optimize automations", "Prepare final report", "Retrospective meeting", "Document lessons learned", "Share learnings"] },
+        { "week": "Week10", "tasks": ["Present results", "Plan next automation phase", "Team onboarding", "Set up new sprints", "Kickoff meeting"] },
+        { "week": "Week11", "tasks": ["Begin next phase automation", "Define KPIs", "Schedule leadership review", "Update documentation", "Prepare next quarter plan"] },
+        { "week": "Week12", "tasks": ["Retrospective and documentation", "Archive project materials", "Celebrate team achievements", "Prepare final report", "Share automation results"] }
+      ],
+      "review": {
+        "status": "In Review",
+        "comments": "Automation impact under evaluation"
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+
+:root {
+  font-family: 'Poppins', sans-serif;
+  /* Hide scrollbars for all browsers */
+  scrollbar-width: none; /* Firefox */
+  -ms-overflow-style: none; /* IE 10+ */
+}
+
+body::-webkit-scrollbar, *::-webkit-scrollbar {
+  display: none;
+}
+
+@keyframes gradientShift {
+    0% {
+      background-position: 0% 50%;
+    }
+    50% {
+      background-position: 100% 50%;
+    }
+    100% {
+      background-position: 0% 50%;
+    }
+  }
+  
+.animated-gradient {
+    background-size: 150% 150%;
+    animation: gradientShift 5s ease infinite;
+}
+  
+
+@import "tailwindcss";

@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "title": "Luna Project Review",
+    "date": "Feb 15, 2024",
+    "attendees": 28,
+    "quarter": "Q1 2024",
+    "rock_title": "Luna Project",
+    "owner": "Alex Morgan (Team Lead / Product Manager)",
+    "smart_objective": "Improve user onboarding, resolve or-to-token refresh issue, and ensure smooth mobile experience by August 21st",
+    "milestones": [
+      { "week": "Week1", "tasks": ["Define project scope and objectives", "Identify key stakeholders", "Create project timeline"] },
+      { "week": "Week2", "tasks": ["Develop user onboarding module", "Work on or-to-token refresh issue", "Design mobile experience"] },
+      { "week": "Week3", "tasks": ["Implement drip sequences for early access launch", "Test user onboarding module", "Conduct stakeholder review"] },
+      { "week": "Week4", "tasks": ["Finalize mobile experience", "Resolve or-to-token refresh issue", "Prepare for early access launch"] },
+      { "week": "Week5", "tasks": ["Launch early access", "Monitor user feedback", "Iterate on user onboarding"] },
+      { "week": "Week6", "tasks": ["Analyze user feedback", "Refine user onboarding module", "Plan for full launch"] },
+      { "week": "Week7", "tasks": ["Implement feedback from early access", "Finalize Luna project"] },
+      { "week": "Week8", "tasks": ["Review project progress", "Ensure readiness for full launch"] },
+      { "week": "Week9", "tasks": ["Prepare for full launch", "Coordinate with stakeholders"] },
+      { "week": "Week10", "tasks": ["Full launch of Luna project", "Monitor user feedback"] },
+      { "week": "Week11", "tasks": ["Analyze full launch feedback", "Iterate on Luna project"] },
+      { "week": "Week12", "tasks": ["Finalize Luna project", "Review project success"] }
+    ],
+    "review": {
+      "status": "Approved",
+      "comments": "Ensure timely completion of Luna project"
+    }
+  },
+  {
+    "id": 2,
+    "title": "Mid-Year Planning",
+    "date": "May 20, 2024",
+    "attendees": 32,
+    "quarter": "Q2 2024",
+    "rock_title": "Orion Project",
+    "owner": "Priya Singh (Project Manager)",
+    "smart_objective": "Launch Orion's new analytics dashboard and improve reporting accuracy by July 15th",
+    "milestones": [
+      { "week": "Week1", "tasks": ["Define analytics requirements", "Meet with stakeholders", "Draft dashboard wireframes"] },
+      { "week": "Week2", "tasks": ["Develop backend APIs", "Set up data pipelines", "Start frontend dashboard"] },
+      { "week": "Week3", "tasks": ["Integrate backend with frontend", "Initial dashboard review", "QA testing"] },
+      { "week": "Week4", "tasks": ["Incorporate feedback", "Enhance reporting accuracy", "Performance optimization"] },
+      { "week": "Week5", "tasks": ["User acceptance testing", "Bug fixes", "Prepare launch plan"] },
+      { "week": "Week6", "tasks": ["Soft launch dashboard", "Collect user feedback", "Iterate on features"] },
+      { "week": "Week7", "tasks": ["Finalize dashboard", "Documentation", "Team training"] },
+      { "week": "Week8", "tasks": ["Launch new analytics dashboard", "Monitor usage", "Support team"] },
+      { "week": "Week9", "tasks": ["Review analytics adoption", "Plan next phase"] },
+      { "week": "Week10", "tasks": ["Implement next phase features", "Stakeholder review"] },
+      { "week": "Week11", "tasks": ["QA and bug fixes", "Prepare final report"] },
+      { "week": "Week12", "tasks": ["Project retrospective", "Celebrate success"] }
+    ],
+    "review": {
+      "status": "In Progress",
+      "comments": "Dashboard launch on track, focus on QA"
+    }
+  },
+  {
+    "id": 3,
+    "title": "Performance Review",
+    "date": "Aug 12, 2024",
+    "attendees": 25,
+    "quarter": "Q3 2024",
+    "rock_title": "Vega Project",
+    "owner": "John Lee (Engineering Lead)",
+    "smart_objective": "Reduce Vega's API latency by 40% and complete migration to new infra by September 30th",
+    "milestones": [
+      { "week": "Week1", "tasks": ["Benchmark current API latency", "Identify bottlenecks", "Draft migration plan"] },
+      { "week": "Week2", "tasks": ["Optimize database queries", "Refactor API endpoints", "Set up new infra"] },
+      { "week": "Week3", "tasks": ["Migrate staging environment", "Performance testing", "Monitor errors"] },
+      { "week": "Week4", "tasks": ["Address performance issues", "Prepare production migration", "Stakeholder review"] },
+      { "week": "Week5", "tasks": ["Migrate production environment", "Monitor post-migration", "Hotfixes"] },
+      { "week": "Week6", "tasks": ["Analyze latency improvements", "Document changes", "Team training"] },
+      { "week": "Week7", "tasks": ["Finalize migration", "Retrospective meeting"] },
+      { "week": "Week8", "tasks": ["Plan next quarter objectives", "Team celebration"] },
+      { "week": "Week9", "tasks": ["Monitor system stability", "Gather user feedback"] },
+      { "week": "Week10", "tasks": ["Implement feedback", "Performance review"] },
+      { "week": "Week11", "tasks": ["QA and bug fixes", "Prepare final report"] },
+      { "week": "Week12", "tasks": ["Project wrap-up", "Celebrate success"] }
+    ],
+    "review": {
+      "status": "Completed",
+      "comments": "API latency reduced, migration successful"
+    }
+  }
+]
